@@ -1,4 +1,4 @@
-** In chronological order **
+**In chronological order**
 
 250511_seurat_generation.R: Generates seurat object from sample-specific looom count matrices, aligned to hg38.
 
