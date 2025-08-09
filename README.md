@@ -1,7 +1,7 @@
 # Gavin Li Honours 2025 project
 Project title: Uncovering developmental trajectories in brain organoids using single-cell RNA sequencing
 
-![Project flowchart](https://raw.githubusercontent.com/gavin5325/gavin_li_unsw_honours_2025/main/finalflowchart_README.png)
+![Project flowchart](https://raw.githubusercontent.com/gavin5325/gavin_li_unsw_honours_2025/main/project_flowchart_README.png)
 
 As per the project flowchart, each folder in this repository represents a specific stage of the project, starting from scRNA-seq reads obtained from the Cell Ranger pipeline.
 
