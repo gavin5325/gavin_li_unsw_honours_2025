@@ -1,6 +1,7 @@
 # About this directory
 
-These scripts contain the steps I took to pre-process, integrate and convert Seurat objects containing the loom count matrices. The chronological order of all scripts in this directory are listed below.
+These scripts contain the steps I took to pre-process, integrate and convert Seurat objects containing the loom count matrices. Analysis were performed on UNSW’s HPC cluster Katana (DOI: 10.26190/669X-A286). The chronological order of all scripts in this directory are listed below.
+
 
 `250511_seurat_generation.R`: Generates seurat object from sample-specific looom count matrices, aligned to hg38.
 
