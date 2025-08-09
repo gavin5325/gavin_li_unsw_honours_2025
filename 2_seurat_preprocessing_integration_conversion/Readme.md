@@ -1,6 +1,6 @@
-**In chronological order**
+These scripts contain the steps I took to pre-process, integrate and convert Seurat objects containing the loom count matrices. The chronological order of all scripts in this directory are listed below.
 
-250511_seurat_generation.R: Generates seurat object from sample-specific looom count matrices, aligned to hg38.
+`250511_seurat_generation.R`: Generates seurat object from sample-specific looom count matrices, aligned to hg38.
 
 250520_seurat_preprocessing.R: A series of functions that performs pre-processing on seurat objects created from previous script.
 
