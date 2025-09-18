@@ -3,7 +3,7 @@ Project title: Uncovering developmental trajectories in brain organoids using si
 
 Supervisors: Prof. Irina Voineagu; Dr. Juli Wang
 
-![Project flowchart](https://raw.githubusercontent.com/gavin5325/gavin_li_unsw_honours_2025/main/project_flowchart_README.jpg)
+![Project flowchart](https://raw.githubusercontent.com/gavin5325/gavin_li_unsw_honours_2025/main/project_flowchart_README.png)
 
 As per the project flowchart, each folder in this repository represents a specific stage of the project, starting from scRNA-seq reads obtained from the Cell Ranger pipeline.
 
