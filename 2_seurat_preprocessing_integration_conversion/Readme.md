@@ -24,3 +24,5 @@ These scripts contain the steps I took to pre-process, integrate and convert Seu
 `250702_seurat_no_day_60.R`: Subsets the genotype combined Seurat object to include D20, no D60 (WT). Performs pre-processing and integration again.  
 
 `250726_D60_hg19.R`: Creates a WT/KO seurat object for D60 samples aligned to hg19. Repleaced D60 cells in the genotype-combined Seurat object with these cells. Pre-processed and integrated the resultant Seurat object and converted it to annData. **Edit**: As of 25/08/13, D60 samples have now been aligned to hg38, just like D20 and D100. For convinience, the name is kept as such.
+
+`251008_D60_D100_merge.R`: Creates an Seurat and AnnData object for day 60 (cumulative) and day 100 (cumulative) each. Cumulative means up to this point. For example, day 60 (cumulative) contains cells from days 20 and 60, and day 100 (cumulative) contains cells from days 20, 60 and 100.
